@@ -1,7 +1,7 @@
-import UseState from './components/Counter';
+import Counter from './components/Counter';
 
 function App() {
-  return <UseState />;
+  return <Counter />;
 }
 
 export default App;
